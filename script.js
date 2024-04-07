@@ -58,7 +58,7 @@ function menuAnimation() {
     var loader = document.querySelector(".loader")
 setTimeout(function() {
  loader.style.top = "-100%"
-},4200)
+},5200)
 
  }
 

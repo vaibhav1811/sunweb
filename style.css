@@ -698,6 +698,11 @@ width: 100%;
   
   }
 
+  .loader h1:nth-child(4){
+    animation-delay: 4s;
+  
+  }
+
 
 
 
